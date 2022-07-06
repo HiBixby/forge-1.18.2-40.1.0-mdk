@@ -10,6 +10,10 @@
 1. [SETTING UP WORKSPACE](https://youtu.be/eqY17yWENEI)
 2. [PARCHMENT MAPPINGS SETUP](https://youtu.be/x1B5DgyShG4)
 
+
+### 목적
+실제 배포할 수 있는 나만의 모드 만들기
+
 ### 최종 목표
 Custom Music Disc 모드 만들기
 
