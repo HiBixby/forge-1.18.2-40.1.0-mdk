@@ -6,4 +6,4 @@
 https://youtube.com/playlist?list=PLKGarocXCE1Hut51TKKqZKqVZtKLZC48x
 
 
-1.[[!Minecraft Modding 1.18.1 with Forge | SETTING UP WORKSPACE]https://youtu.be/eqY17yWENEI]
+1.[!Minecraft Modding 1.18.1 with Forge | SETTING UP WORKSPACE](https://youtu.be/eqY17yWENEI)
