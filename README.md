@@ -4,7 +4,7 @@
 ---
 
 ### 참고자료
-동영상 70개
+동영상 70개<
 [Minecraft 1.18.1 Forge Modding Tutorials](https://youtube.com/playlist?list=PLKGarocXCE1Hut51TKKqZKqVZtKLZC48x)
 
 
