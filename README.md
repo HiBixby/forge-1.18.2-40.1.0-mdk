@@ -4,7 +4,8 @@
 ---
 
 ### 참고자료
-https://youtube.com/playlist?list=PLKGarocXCE1Hut51TKKqZKqVZtKLZC48x
+동영상 70개
+[Minecraft 1.18.1 Forge Modding Tutorials](https://youtube.com/playlist?list=PLKGarocXCE1Hut51TKKqZKqVZtKLZC48x)
 
 
 1. [Minecraft Modding 1.18.1 with Forge | SETTING UP WORKSPACE](https://youtu.be/eqY17yWENEI)
