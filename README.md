@@ -6,7 +6,8 @@
 
 
 # Minecraft Modding 1.18.1 with Forge
-1. [SETTING UP WORKSPACE](https://youtu.be/eqY17yWENEI) 환경설정
+현재까지 공부한 부분 
+1. [SETTING UP WORKSPACE](https://youtu.be/eqY17yWENEI)
 2. [PARCHMENT MAPPINGS SETUP](https://youtu.be/x1B5DgyShG4)
 
 
