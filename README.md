@@ -11,6 +11,9 @@
 2. [PARCHMENT MAPPINGS SETUP](https://youtu.be/x1B5DgyShG4)
 
 
+### 계획
+하루 15~30분 정도는 투자하기
+
 ### 목적
 실제 배포할 수 있는 나만의 모드 만들기
 
