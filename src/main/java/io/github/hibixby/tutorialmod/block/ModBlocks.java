@@ -1,10 +1,12 @@
 package io.github.hibixby.tutorialmod.block;
 
 import io.github.hibixby.tutorialmod.TutorialMod;
+import io.github.hibixby.tutorialmod.item.ModCreativeModTab;
 import io.github.hibixby.tutorialmod.item.ModItems;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
+import net.minecraft.world.item.PickaxeItem;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.material.Material;
@@ -22,7 +24,22 @@ public class ModBlocks {
 
      public static final RegistryObject<Block> CITRINE_BLOCK = registerBlock("citrine_block",
              ()->new Block(BlockBehaviour.Properties.of(Material.METAL)
-             .strength(9f).requiresCorrectToolForDrops()),CreativeModeTab.TAB_MISC);
+             .strength(9f).requiresCorrectToolForDrops()), ModCreativeModTab.TUTORIAL_TAB);
+
+     public static final RegistryObject<Block> RAW_CITRINE_BLOCK = registerBlock("raw_citrine_block",
+             () -> new Block(BlockBehaviour.Properties.of(Material.METAL).strength(7f).requiresCorrectToolForDrops()),ModCreativeModTab.TUTORIAL_TAB);
+
+     public static final RegistryObject<Block> CITRINE_ORE = registerBlock("citrine_ore",
+             () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(5f).requiresCorrectToolForDrops()),ModCreativeModTab.TUTORIAL_TAB);
+
+     public static final RegistryObject<Block> DEEPSLATE_CITRINE_ORE = registerBlock("deepslate_citrine_ore",
+             () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(5f).requiresCorrectToolForDrops()),ModCreativeModTab.TUTORIAL_TAB);
+
+     public static final RegistryObject<Block> NETHERRACK_CITRINE_ORE = registerBlock("netherrack_citrine_ore",
+             () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(5f).requiresCorrectToolForDrops()),ModCreativeModTab.TUTORIAL_TAB);
+
+     public static final RegistryObject<Block> ENDSTONE_CITRINE_ORE = registerBlock("endstone_citrine_ore",
+             () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(5f).requiresCorrectToolForDrops()),ModCreativeModTab.TUTORIAL_TAB);
      private static <T extends Block> RegistryObject<T> registerBlock(String name, Supplier<T>block, CreativeModeTab tab){
          RegistryObject<T> toReturn=BLOCKS.register(name,block);
          registerBlockItem(name,toReturn,tab);
