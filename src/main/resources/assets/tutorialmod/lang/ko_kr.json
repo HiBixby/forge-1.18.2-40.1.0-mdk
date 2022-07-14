@@ -1,5 +1,13 @@
 {
   "item.tutorialmod.citrine": "황수정",
-  "block.tutorialmod.citrine_block": "황수정 블록"
+  "item.tutorialmod.raw_citrine": "황수정 원석",
+
+  "block.tutorialmod.citrine_block": "황수정 블록",
+  "block.tutorialmod.citrine_ore": "황수정 광석 블록",
+  "block.tutorialmod.deepslate_citrine_ore": "심층암 황수정 광석 블록",
+  "block.tutorialmod.endstone_citrine_ore": "엔더 황수정 광석 블록",
+  "block.tutorialmod.netherrack_citrine_ore": "네더 황수정 광석 블록",
+  "block.tutorialmod.raw_citrine_block": "황수정 원석 블록",
+  "itemGroup.tutorialtab": "튜토리얼 모드"
 
 }
