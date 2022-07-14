@@ -13,13 +13,13 @@ public class ModItems {
             DeferredRegister.create(ForgeRegistries.ITEMS, TutorialMod.MOD_ID);
 
 
-    public static final RegistryObject<Item> CITRINE=ITEMS.register("citrine",
-            ()->new Item(new Item.Properties().tab(CreativeModeTab.TAB_MISC))); //괄호 안 아이템 이름은 소문자로 적어야한다.
+    public static final RegistryObject<Item> CITRINE = ITEMS.register("citrine",
+            () -> new Item(new Item.Properties().tab(ModCreativeModTab.TUTORIAL_TAB)));//괄호 안 아이템 이름은 소문자로 적어야한다.
 
+    public static final RegistryObject<Item> RAW_CITRINE = ITEMS.register("raw_citrine",
+            () -> new Item(new Item.Properties().tab(ModCreativeModTab.TUTORIAL_TAB)));
 
-
-
-    public static void register(IEventBus eventBus){
+    public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
     }
 }
