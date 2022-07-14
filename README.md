@@ -5,7 +5,7 @@
 
 
 
-# Minecraft Modding 1.18.1 with Forge
+# Minecraft Modding 1.18 with Forge
 ### 현재까지 공부한 부분 
 1. [SETTING UP WORKSPACE](https://youtu.be/eqY17yWENEI)
 2. [PARCHMENT MAPPINGS SETUP](https://youtu.be/x1B5DgyShG4)
@@ -29,7 +29,7 @@ Custom Music Disc 모드 만들기
 
 ### 참고자료
 동영상 70개<br>
-[Minecraft 1.18 Forge Modding Tutorials](https://youtube.com/playlist?list=PLKGarocXCE1Hut51TKKqZKqVZtKLZC48x)
+[Minecraft 1.18.1 Forge Modding Tutorials](https://youtube.com/playlist?list=PLKGarocXCE1Hut51TKKqZKqVZtKLZC48x)
 
 ### Textures by nanoattack:
 https://www.fiverr.com/nanoattack/help-design-and-draw-pixel-art
