@@ -11,6 +11,7 @@
 2. [PARCHMENT MAPPINGS SETUP](https://youtu.be/x1B5DgyShG4)
 3. [CUSTOM ITEMS](https://youtu.be/FrRE_hVi9xo)
 4. [CUSTOM BLOCKS](https://youtu.be/c2zgZI5iTwo)
+5. [CREATIVE MODE TAB](https://youtu.be/_MqS5jqJbiM)
 
 
 ### 계획
