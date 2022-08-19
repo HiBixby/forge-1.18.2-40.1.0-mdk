@@ -5,13 +5,19 @@
 
 
 # Minecraft Modding 1.18 with Forge
-### 현재까지 공부한 부분 
-1. [SETTING UP WORKSPACE](https://youtu.be/eqY17yWENEI)
-2. [PARCHMENT MAPPINGS SETUP](https://youtu.be/x1B5DgyShG4)
-3. [CUSTOM ITEMS](https://youtu.be/FrRE_hVi9xo)
-4. [CUSTOM BLOCKS](https://youtu.be/c2zgZI5iTwo)
-5. [CREATIVE MODE TAB](https://youtu.be/_MqS5jqJbiM)
-
+<details>
+  <summary>
+    <h3> 현재까지 공부한 부분 </h3>
+  </summary>
+  <div markdown="1">
+    1. [SETTING UP WORKSPACE](https://youtu.be/eqY17yWENEI)
+    2. [PARCHMENT MAPPINGS SETUP](https://youtu.be/x1B5DgyShG4)
+    3. [CUSTOM ITEMS](https://youtu.be/FrRE_hVi9xo)
+    4. [CUSTOM BLOCKS](https://youtu.be/c2zgZI5iTwo)
+    5. [CREATIVE MODE TAB](https://youtu.be/_MqS5jqJbiM)
+    6. [CUSTOM RECIPES](https://youtu.be/dmk3s0y_J6o)
+  </div>
+</details>
 
 ### 목적
 실제 배포할 수 있는 나만의 모드 만들기
