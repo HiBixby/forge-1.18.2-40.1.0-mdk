@@ -17,7 +17,6 @@
     4. [CUSTOM BLOCKS](https://youtu.be/c2zgZI5iTwo)
     5. [CREATIVE MODE TAB](https://youtu.be/_MqS5jqJbiM)
     6. [CUSTOM RECIPES](https://youtu.be/dmk3s0y_J6o)
-    
   </div>
 </details>
 
